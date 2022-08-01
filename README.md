@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with RabbitMQ
 - 💬 Ask me about Algorithms
-- 📫 How to reach me: linkedin.com/in/santosh-chintamaneni-1149a738
+- 📫 How to reach me: https://www.linkedin.com/in/santosh-chintamaneni/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love watching American Football
+- ⚡ Fun fact: I love watching American Football, Woodworking, and learning new design patterns
 

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About Me
-I'm a software engineer in Minneapolis, US.  **santosh4005/santosh4005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer in Raleigh, US.  **santosh4005/santosh4005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
